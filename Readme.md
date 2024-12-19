@@ -1,11 +1,11 @@
-Title: AI Assistant for Pakistan Banking Information and Tools
-
-Description:
-
+**Title: AI Assistant for Pakistan Banking Information and Tools
+**
+**Description:
+**
 This Python code implements an AI assistant focused on providing information and tools related to the Pakistani banking industry. It leverages the power of large language models (LLMs) and various tools to offer users a comprehensive and informative experience.
 
-Key Features:
-
+**Key Features:
+**
 Information Retrieval: The assistant can search for relevant topics within the Pakistani banking sector, including:
 Banking sector trends
 State Bank of Pakistan policies
@@ -60,7 +60,9 @@ Enhance information search capabilities by integrating with banking APIs or offi
 Expand the toolset with features like currency conversion, investment calculations, etc.
 Implement a more sophisticated dialogue management system for a smoother user experience.
 Consider deploying the assistant to a chat platform or website.
-
+For Google colab same code with Gemini-1.5- flash
+**https://colab.research.google.com/drive/1c31mQsdwNDnMqrvdFC6Nr0woxH_beBgE#scrollTo=wWt0us5cQ9lA
+**
 Contact:
 whtasapp +923332197773
 email saqib.kareem.gmb@gmail.com
